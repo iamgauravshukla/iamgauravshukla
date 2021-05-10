@@ -5,7 +5,7 @@
 
 ## I'm a B.Tech CSE Student, Developer, and Fitness Freak!!
 
-- 🔭 I just launched my Portfolio Website :[website]!
+- 🔭 I just launched my Portfolio Website :[visit]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to work with other developers 
 - 🥅 2020 Goals: Contribute more to Open Source projects or develope more projects.
