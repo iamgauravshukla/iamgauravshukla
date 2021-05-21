@@ -53,6 +53,7 @@
 ➡️ [more videos...](https://youtube.com/channel/UCWFCdCKT8wo0sOVM6MZxjdA)
 
 ---
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=iamgauravshukla&show_icons=true)
 
 [website]: https://gaurav.tk
 [youtube]: https://youtube.com/channel/UCWFCdCKT8wo0sOVM6MZxjdA
