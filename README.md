@@ -39,10 +39,6 @@
 <br />
 
 ---
-![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamgauravshukla&show_icons=true&theme=dark) 
-![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iamgauravshukla&theme=dark)
-
----
 
 ### 📺 Latest YouTube Videos
 
@@ -58,7 +54,8 @@
 
 ---
 ### 😂 You reached till down here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api)![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iamgauravshukla&theme=dark)
+
 ---
 
 [website]: https://gaurav.tk
