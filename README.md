@@ -54,7 +54,7 @@
 
 ---
 ### 😂 You reached till down here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iamgauravshukla&theme=dark)
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ---
 
