@@ -55,6 +55,8 @@
 ➡️ [more videos...](https://youtube.com/channel/UCWFCdCKT8wo0sOVM6MZxjdA)
 
 ---
+## 😂 You reached till down here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 [website]: https://gaurav.tk
 [youtube]: https://youtube.com/channel/UCWFCdCKT8wo0sOVM6MZxjdA
