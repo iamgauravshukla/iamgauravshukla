@@ -39,11 +39,9 @@
 <br />
 
 ---
-![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamgauravshukla&show_icons=true&theme=dark)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iamgauravshukla&theme=blue-green)![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamgauravshukla&show_icons=true&theme=dark) 
 
 ---
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iamgauravshukla&theme=blue-green)
-
 
 ### 📺 Latest YouTube Videos
 
