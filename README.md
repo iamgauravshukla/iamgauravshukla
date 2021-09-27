@@ -3,14 +3,6 @@
 [![Website](https://img.shields.io/website?label=gaurav.tk&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://gaurav.tk)
 [![GitHub Follow](https://img.shields.io/github/followers/iamgauravshukla?label=follow&style=for-the-badge)](https://github.com/iamgauravshukla)
 
-## I'm a B.Tech CSE Student, Developer, and Fitness Freak!!
-
-- 🔭 I just launched my Portfolio Website :[visit]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to work with other developers 
-- 🥅 2020 Goals: Contribute more to Open Source projects or develope more projects.
-- ⚡ Fun fact: I love to do Workout and play Online Games
-
 
 ### Connect with me:
 
